@@ -1,0 +1,2 @@
+# pedafy-logs
+Logs service
